@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858798645324",
+    "firebase_url": "https://primerregistro-357a1-default-rtdb.firebaseio.com",
+    "project_id": "primerregistro-357a1",
+    "storage_bucket": "primerregistro-357a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858798645324:android:351d68330fef41c34014e9",
+        "android_client_info": {
+          "package_name": "com.uniminuto.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858798645324-bqkve9j1a9lf1net1v3jvd49e3q448ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJnDrYowtS75B2OVqZQNTkNHokJrE7u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858798645324-bqkve9j1a9lf1net1v3jvd49e3q448ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
